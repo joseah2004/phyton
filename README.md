@@ -16,10 +16,15 @@ También he practicado con funciones, entendiendo cómo se crean, cómo reciben 
 Estos ejercicios me han ayudado a mejorar mi lógica y a escribir código más ordenado.
 
 
+
+
+
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
-       width="200" 
-       alt="Python Logo" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+         width="200" 
+         alt="Python Logo" />
+  </a>
 </p>
 
 
