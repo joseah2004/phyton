@@ -70,4 +70,4 @@ print("Ciudades sin dar palo al agua como torres", ciudades)
 
 
 for usuario in usuarios:
-   pri
+   print((usuario['nombre'], (usuario["edad"]),usuario["ciudad"]))
