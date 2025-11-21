@@ -38,5 +38,36 @@ for usuario in usuarios:
         usuariomasjoven =usuario
 
 
-pri
+print(usuariomasjoven)
 
+usuarioM = 0;
+
+for usuario in usuarios:
+ if usuario["ciudad"] == "Madrid":
+     usuariomasjoven += 1
+
+print("Usuarios de Madrid que sn de maduus", usuariomasjoven)
+
+
+nombres20 = []
+for usuario in usuarios:
+ if usuario["edad"] > 20:
+    nombres20.append(usuario["nombre"])
+
+print("Pueden irse de fiesta ", nombres20)
+
+
+
+
+
+ciudades = []
+for usuario in usuarios:
+    if usuario["ciudad"] not in ciudades:
+
+        ciudades.append(usuario["ciudad"])
+print("Ciudades sin dar palo al agua como torres", ciudades)
+
+
+
+for usuario in usuarios:
+   pri
